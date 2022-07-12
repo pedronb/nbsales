@@ -1,0 +1,28 @@
+header {
+    height: 220px;
+    background: linear-gradient(180deg, #102347 0%, black 75%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nbsales-logo-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   
+}
+
+.nbsales-logo-container img {
+    width: 235px;
+}
+
+.nbsales-logo-container h1 {
+    margin-top: 15px;
+    font-size: 24px;
+}
+
+.nbsales-logo-container p {
+    font-size: 14px;
+    font-weight: 300;
+}
